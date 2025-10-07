@@ -1,1 +1,37 @@
-# xnetdeltav25
+# XnetDelta V25
+Xnet adalah sebuah Tools pentesting jaringan menggunakan nodejs 
+
+# **WARNING !!**
+JANGAN SALAHGUNAKAN TOOLS INI UNTUK BERBUAT JAHAT DAN ILEGAL, GUNAKAN DENGAN BIJAK DAN SIAP MENANGGUNG RESIKONYA
+
+## Fitur baru di Versi 24.5 ##
+- Broadcast Storm
+- Icmp Flood
+- Akses via Cli
+- Beberapa fitur Dioptimalkan
+- Boost Attack
+
+# Cara Install
+**Clone repositori**
+```bash
+git clone https://github.com/NekomonHub/xnetdeltav25
+```
+**Akses folder**
+```bash
+cd xnetdeltav25
+```
+**Jalankan Script dan Instal PKG**
+```bash
+bash install.sh
+```
+jika terdapat tulisan:
+**replace install.sh? [y]es, [n]o, [A]ll, [N]one, [r]ename:** 
+maka isi dengan **Y**
+# Bahasa yang digunakan
+
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)]()
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)]()
+[![Shell Script](https://img.shields.io/badge/Shell%20Script-4EAA25?style=flat&logo=gnubash&logoColor=white)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)]()
+
+Powered by AdelHat
